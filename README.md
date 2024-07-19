@@ -91,7 +91,7 @@
 
 ### 사용자 이벤트 전송 모듈
  - 목적 : Firebase Analytics, Branch, Braze를 사용하여 사용자 이벤트를 로깅하고 있었는데 필요한 위치에서 매번 중복되는 코드들을 작성하고 각 라이브러리마다 코드를 작성해서 코드가 길어지고 복잡해짐. 이를 개선하고자 함.
- - 개발 내용 : EventLogger라는 클래스를 만들어 이벤트 name, properties, flatform(firebase, branch, braze)을 전달 받아 각 flatform에 맞게 변형하여 이벤트 전달하는 기능 구현. 프로젝트에 적용 된 모든 이벤트 전송 코드를 변경하여 코드를 단순화 함.
+ - 개발 내용 : EventLogger라는 클래스를 만들어 이벤트 name, properties, platform(firebase, branch, braze)을 전달 받아 각 platform에 맞게 변형하여 이벤트 전달하는 기능 구현. 프로젝트에 적용 된 모든 이벤트 전송 코드를 변경하여 코드를 단순화 함.
 
 ### 검색 화면 개발
  - 기간 : 2022.11 ~ 2022.12
