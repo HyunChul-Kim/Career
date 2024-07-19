@@ -61,6 +61,8 @@
 
 > 2022.04 - 2024.04
 
+<img src="https://github.com/HyunChul-Kim/Career/blob/main/images/wtable/wtable_image1.jpg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/main/images/wtable/wtable_image2.jpg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/main/images/wtable/wtable_image3.jpg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/main/images/wtable/wtable_image4.jpg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/main/images/wtable/wtable_image5.jpg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/main/images/wtable/wtable_image6.jpg" width="100" height="200"/>
+
 ### 레거시 코드 개선
  - 기간 : 2022.04 ~
  - 목적 : deprecate 된 라이브러리, api 등을 변경하고 일부 동일 한 use-case 들이 공통 모듈로써 관리되지 않는 부분들 일부 수정
