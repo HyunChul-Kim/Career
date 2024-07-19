@@ -11,6 +11,8 @@
 
 > 2017.06 - 2022.04
 
+<img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image1.jpeg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image2.jpeg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image3.jpeg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image4.jpeg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image5.jpeg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image6.jpeg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image7.jpeg" width="100" height="200"/>
+ 
 ### 상단, 하단 툴바 스크롤 컨트롤러 개발
  - 기간 : 2017.10 ~ 2017.11
  - 목적 : 앱의 모든 페이지에 상단 헤더와 하단 네비게이션바가 고정되어 있었던 것을 화면을 아래로 스크롤 할 때 헤더와 네비게이션바도 위아래로 스크롤되게 하여 페이지에 더 많은 정보가 노출되도록 하고 답답한 좁은 화면을 개선.
