@@ -82,12 +82,16 @@
 ### 본인 인증 화면 개발
  - 기간 : 2022.07 ~ 2022.08
  - 목적 : 본인 인증을 위한 화면 개발
- - 개발 내용 : 본인 인증 url에 사용자 정보를 파라미터로 추가하여 웹뷰로 로드. WebViewClient에서 shouldOverrideLoading override하여 url의 parameter를 통해 성공 여부와 data를 추출. 이럴 이용하여 서버와 api 통신을 통해 인증 결과를 전달하고 setResult를 통하여 인증 화면을 호출한 화면으로 결과 전달. 
+ - 개발 내용 : 본인 인증 url에 사용자 정보를 파라미터로 추가하여 웹뷰로 로드. WebViewClient에서 shouldOverrideLoading override하여 url의 parameter를 통해 성공 여부와 data를 추출. 이를 이용하여 서버와 api 통신을 통해 인증 결과를 전달하고 setResult를 통하여 인증 화면을 호출한 화면으로 결과 전달. 
 
 ### 난독화 적용
  - 기간 : 2022.08 ~ 2022.08
  - 목적 : 난독화 적용
  - 개발 내용 : 사용 중인 외부 Library 확인하여 proguard rule 추가. crashlytics mapping file upload 추가
+
+### 사용자 이벤트 전송 모듈
+ - 목적 : Firebase Analytics, Branch, Braze를 사용하여 사용자 이벤트를 로깅하고 있었는데 필요한 위치에서 매번 중복되는 코드들을 작성하고 각 라이브러리마다 코드를 작성해서 코드가 길어지고 복잡해짐. 이를 개선하고자 함.
+ - 개발 내용 : EventLogger라는 클래스를 만들어 이벤트 name, properties, flatform(firebase, branch, braze)을 전달 받아 각 flatform에 맞게 변형하여 이벤트 전달하는 기능 구현. 프로젝트에 적용 된 모든 이벤트 전송 코드를 변경하여 코드를 단순화 함.
 
 ### 검색 화면 개발
  - 기간 : 2022.11 ~ 2022.12
