@@ -13,6 +13,7 @@ UI/UX 개선을 위해 기획,디자이너와 자주 소통하고 비지니스 �
 > 시스템개발팀/선임연구원
 
 > 2024.09 - 재직중
+
 ✅ 코드 리팩토링을 통한 유지보수성 개선
  - 기존 Java 기반 프로젝트를 Kotlin으로 전환, MVVM 패턴 및 Clean Architecture 적용
  - Repository Pattern과 ViewModel을 활용하여 비즈니스 로직과 UI 분리
