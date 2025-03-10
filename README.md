@@ -6,6 +6,19 @@ UI/UX 개선을 위해 기획,디자이너와 자주 소통하고 비지니스 �
 
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+🛠 ## **기술 스택**
+
+✔ 주요 기술
+	•	Android(Kotlin, Java), MVVM, Clean Architecture, Coroutine, Flow, Hilt, Room
+	•	Retrofit2, OpenLayers, WebView, ExoPlayer
+
+✔ 협업 및 버전 관리
+	•	Git(GitHub, GitLab), Jira, Slack, Notion, Zeplin, Figma
+
+✔ 데이터 & 테스트
+	•	Firebase Analytics, Branch, Amplitude, Braze
+
+
 # 경력
 ## 🚀차후
 > OpenLayers를 이용한 건축 도면 관리 서비스 제공
@@ -83,7 +96,7 @@ UI/UX 개선을 위해 기획,디자이너와 자주 소통하고 비지니스 �
 
 ✅ **UI/UX 개선 및 사용자 경험 향상**
  - WebView에서 툴바, 네비게이션바 확장, 축소 컨트롤러 개발
- - Expandable RecyclerView Adapter*
+ - Expandable RecyclerView Adapter
 
 ✅ **생체 인증 기능 도입**
  - FingerPrintManager를 활용한 생체 인증 데이터 저장 기능 구현
