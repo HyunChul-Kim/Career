@@ -43,24 +43,31 @@ UI/UX 개선을 위해 기획,디자이너와 자주 소통하고 비지니스 �
 ✅ **본인인증 화면 개발**
  - 화면에서 입력된 인증정보를 WebView로 전달하여 인증
  - 본인인증 및 성인인증 기능을 통해 주류 상품 판매 기능 추가
+
 ✅ **이벤트 로깅 시스템 통합**
  - Firebase Analytics, Branch, Braze, Amplitude 통합 관리
  - Event Logger Class 개발 → 중복 코드 제거 및 유지보수성 향상
+
 ✅ **UI/UX 개선 및 사용자 경험 향상**
  - 검색 화면 리뉴얼: 추천 검색어, 검색어 히스토리, 연관 검색어 기능 추가
  - 게시물 해시태그 기능 개발: # 입력 시 연관 태그 자동 추천 및 강조 표시
  - 이미지 선택기 커스터마이징
+
 ✅ **AI Recipe 개발**
  - 검색어를 입력하면 서버쪽과 연결하여 해당 검색어를 이용한 레시피를 제공하는 기능 개발
  - xml tag 방식을 적용하여 서버에서 전달 되는 data에 tag정보를 포함시키고 이를 파싱하여 bold, color, size 등의 UI를 제공할 수 있게 개발
  - 로딩화면 애니메이션 개발
+
 ✅ **JWT 인증 및 네트워크 보안 강화**
  - OkHttp Interceptor를 이용한 JWT 인증 로직 구현
  - Header Interceptor에 Access Token 정보 추가
+
 ✅ **Branch Quick Link 적용**
+
 ✅ **채널톡 SDK 추가**
  - 채널톡 SDK를 이용하여 문의 환경 개발
  - 채널톡 SDK 버그 이슈 제보하여 이슈 수정
+
 ✅ **레거시 코드 개선**
  - Deprecated된 ButterKnife 제거 → ViewBinding 적용
  - Jcenter 사용 라이브러리를 Maven으로 전환
@@ -74,21 +81,28 @@ UI/UX 개선을 위해 기획,디자이너와 자주 소통하고 비지니스 �
 
 <img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image1.jpeg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image2.jpeg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image3.jpeg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image4.jpeg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image5.jpeg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image6.jpeg" width="100" height="200"/><img src="https://github.com/HyunChul-Kim/Career/blob/24ca7354056d9ea65a2e5db5b9b8375430b30618/images/qoo10/qoo10_image7.jpeg" width="100" height="200"/>
 
-✅ **상,하단 툴바 컨트롤러 개발**
- - 사용자가 더 넓은 정보를 볼 수 있도록 스크롤 화면 및 WebView에서 상,하단 툴바 show, hide 기능 개발
+✅ **UI/UX 개선 및 사용자 경험 향상**
+ - WebView에서 툴바, 네비게이션바 확장, 축소 컨트롤러 개발
+ - Expandable RecyclerView Adapter*
+
 ✅ **생체 인증 기능 도입**
  - FingerPrintManager를 활용한 생체 인증 데이터 저장 기능 구현
+
 ✅ **Kotlin 전환**
+
 ✅ **Localization**
-✅ **Expandable RecyclerView Adapter**
- - 데이터 타입에 상관없이 열리고 접히는 UI 기능을 제공하여 생산성 향상
+
 ✅ **MVC, MVP, MVVM 환경에서 개발**
  - 오래된 프로젝트라 MVC, MVP가 혼용되고 있어서 해당 환경에서 개발
  - 신규 작업에서는 MVVM 패턴 적용
-✅ **WebView를 통한 하이브리드 앱 개발**
+
+✅ **WebView 기반 하이브리드 앱 개발**
+
 ✅ **멀티미디어 기능 개발**
  - ExoPlayer, YoutubePlayer를 활용한 동영상 플레이어 개발
  - 리스트 화면 내 특정 위치 동영상 자동 재생 컨트롤러 구현
+
 ✅ **비동기 API 호출 최적화**
  - 기존 콜백 방식에서 RxJava의 Zip 연산을 적용하여 API 호출 성능 30% 개선
+
 ✅ **Git Branch 전략을 이용한 버전관리**
