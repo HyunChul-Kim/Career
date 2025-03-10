@@ -14,7 +14,7 @@ UI/UX 개선을 위해 기획,디자이너와 자주 소통하고 비지니스 �
 
 > 2024.09 - 재직중
 
-### ✅ 코드 리팩토링을 통한 유지보수성 개선
+✅ **코드 리팩토링을 통한 유지보수성 개선**
  - 기존 Java 기반 프로젝트를 Kotlin으로 전환, MVVM 패턴 및 Clean Architecture 적용
  - Repository Pattern과 ViewModel을 활용하여 비즈니스 로직과 UI 분리
  - 기존 API 호출 방식 개선 → Coroutine & Flow 적용하여 비동기 처리 최적화
