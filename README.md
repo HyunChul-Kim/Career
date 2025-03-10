@@ -6,7 +6,7 @@ UI/UX 개선을 위해 기획,디자이너와 자주 소통하고 비지니스 �
 
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-🛠 ## **기술 스택**
+## 🛠 **기술 스택**
 
 ✔ 주요 기술
 	•	Android(Kotlin, Java), MVVM, Clean Architecture, Coroutine, Flow, Hilt, Room
