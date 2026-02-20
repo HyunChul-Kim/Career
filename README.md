@@ -2,7 +2,7 @@
 # 김현철
 Kotlin/Java 기반 MVVM/Clean Architecture 설계 및 리팩토링 경험
 유지보수성 향상 및 사용자 경험 개선을 통해 앱 안정성과 확장성을 확보
-- [링크드인](https://www.linkedin.com/in/%ED%98%84%EC%B2%A0-%EA%B9%80-05a540262/)
+- [링크드인](https://www.linkedin.com/in/%ED%98%84%EC%B2%A0-%EA%B9%80-05a540262/) | [Email](guscjf4929@gmail.com)
 
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
