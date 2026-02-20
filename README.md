@@ -1,7 +1,7 @@
 # Career
 # 김현철
-안드로이드 앱 개발 경력 8년 차로, MVVM 아키텍처 및 리팩토링을 통한 유지보수성 향상과 UI/UX 개선을 통한 사용자 경험 강화에 강점을 가지고 있습니다.
-비즈니스 로직 최적화 및 성능 개선 경험을 바탕으로, 안정적이고 확장 가능한 애플리케이션 개발에 기여할 수 있습니다.
+Kotlin/Java 기반 MVVM/Clean Architecture 설계 및 리팩토링 경험
+유지보수성 향상 및 사용자 경험 개선을 통해 앱 안정성과 확장성을 확보
 - [링크드인](https://www.linkedin.com/in/%ED%98%84%EC%B2%A0-%EA%B9%80-05a540262/)
 
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
